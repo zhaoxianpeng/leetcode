@@ -1,4 +1,7 @@
 import leetcode_3
+import leetcode_4
+import leetcode_5
+
 
 if __name__ == '__main__':
-    leetcode_3.test_main()
+    leetcode_5.test_main()
